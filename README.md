@@ -121,4 +121,4 @@ php artisan test   # PHPUnit
 
 ## Author
 
-**Abanoub George Samir** · Junior Full-Stack Developer · [Portfolio](https://devabanobgeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) · [GitHub](https://github.com/AbanobGeorgeSamir)
+**Abanoub George Samir** · Junior Full-Stack Developer · [Portfolio](https://devabanoubgeorge.vercel.app) · [LinkedIn](https://www.linkedin.com/in/abanob-george-samir) · [GitHub](https://github.com/AbanobGeorgeSamir)
